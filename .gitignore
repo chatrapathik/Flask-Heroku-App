@@ -1,0 +1,5 @@
+*.pot
+*.sqlite3
+.env
+static
+*.pyc
